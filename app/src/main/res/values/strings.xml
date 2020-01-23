@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADAS_3</string>
+    <string name="caption">Give us your Feedback</string>
+    <string name="enterFeedback"></string>
+    <string name="submitButton">Submit</string>
+    <string name="response1">Thank You For Your Feedback!</string>
+</resources>
